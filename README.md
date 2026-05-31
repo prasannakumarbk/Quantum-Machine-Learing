@@ -9,7 +9,7 @@
 ### 1. Add your Gemini API key
 Edit `backend/.env`:
 ```
-GEMINI_API_KEY=your-gemini-key-here
+GEMINI_API_KEY=
 GEMINI_MODEL=gemini-2.0-flash-lite
 ```
 
